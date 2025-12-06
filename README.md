@@ -1,4 +1,4 @@
-Team: Ornella Ntombolo & Rachel Kabwiza
+Team members: Ornella Ntombolo & Rachel Kabwiza
 Project name: TwistyTalk
 
 Project Description:
