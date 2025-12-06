@@ -1,16 +1,24 @@
-# React + Vite
+Team: Ornella Ntombolo & Rachel Kabwiza
+Project name: TwistyTalk
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project Description:
+TwistyTalk is a web application designed for anyone who enjoys tongue twisters, whether for fun, for a quick challenge, or to sharpen pronunciation skills, and it also naturally supports language learners like us who want to strengthen articulation and fluency. Research in speech and second-language learning shows that repeating short, rhythmic phrases improves sound recognition because articulation, repetition, and auditory feedback reinforce memory. TwistyTalk uses this principle by generating tongue twisters, letting users speak them aloud, and providing immediate AI-based scoring and feedback. The system is implemented in React, integrates the Gemini API for text and speech evaluation, and is deployed through Firebase Hosting.
 
-Currently, two official plugins are available:
+How to Run the Project:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Usage Instructions:
+- Click the web app link
+- Select the level of difficulty that you want
+- Generate twister
+- Record audio
+- View score and feedback
 
-## React Compiler
+Dependencies:
+- React
+- Gemini API
+- Firebase
+- Jest
+- MediaRecorder API
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Deployment Link:
+https://twistytalk.web.app/
