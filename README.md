@@ -5,6 +5,12 @@ Project Description:
 TwistyTalk is a web application designed for anyone who enjoys tongue twisters, whether for fun, for a quick challenge, or to sharpen pronunciation skills, and it also naturally supports language learners like us who want to strengthen articulation and fluency. Research in speech and second-language learning shows that repeating short, rhythmic phrases improves sound recognition because articulation, repetition, and auditory feedback reinforce memory. TwistyTalk uses this principle by generating tongue twisters, letting users speak them aloud, and providing immediate AI-based scoring and feedback. The system is implemented in React, integrates the Gemini API for text and speech evaluation, and is deployed through Firebase Hosting.
 
 How to Run the Project:
+- cd TwistyTalk
+- npm install
+- npm run dev
+- It gives you a localhost link
+- You open it in your browser
+- Your web app runs on your computer
 
 Usage Instructions:
 - Click the web app link
