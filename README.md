@@ -1,5 +1,5 @@
-TwistyTalk – AI Pronunciation Trainer
-Team Members: Ornella Ntombolo & Rachel Kabwiza
+TwistyTalk – AI Pronunciation Trainer,
+Team Members: Ornella Ntombolo & Rachel Kabwiza,
 Project Name: TwistyTalk
 
 1. Project Description
