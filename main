@@ -1,0 +1,33 @@
+"""
+TwistyTalk - AI Pronunciation Trainer
+Main Execution Entry Point
+
+This project is a web-based React application built using Vite.
+It does not execute as a traditional Python program.
+
+To run the project locally:
+
+1. Install Node.js from: https://nodejs.org
+2. Open a terminal inside the project folder.
+3. Run the following commands:
+
+   npm install
+   npm run dev
+
+4. Open the local URL shown in the terminal (for example: http://localhost:5173)
+
+Live Deployed Version:
+https://twistytalk.web.app/
+"""
+
+print("TwistyTalk - AI Pronunciation Trainer")
+print("-----------------------------------")
+print("This is a web-based React application.")
+print()
+print("To run locally:")
+print("1. Install Node.js from https://nodejs.org")
+print("2. Run: npm install")
+print("3. Run: npm run dev")
+print()
+print("Live deployed version:")
+print("https://twistytalk.web.app/")
